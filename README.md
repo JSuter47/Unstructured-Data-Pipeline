@@ -1,2 +1,2 @@
-# Au25-ProjA-Unstructured-Data-Pipeline
+# Unstructured-Data-Pipeline
 An exploratory personal project for utilizing unstructured data.
